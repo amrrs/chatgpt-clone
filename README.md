@@ -8,7 +8,7 @@ Build Yo'own ChatGPT with OpenAI API &amp; Gradio
 3. Install the required libraries `pip install -r requirements.txt` 
 4. run `python app.py` 
 
-### Complete Tutorial: 
+### Complete Tutorial: https://youtu.be/n5nn3mQxrE8
 
 ### Demo
 
