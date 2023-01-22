@@ -24,6 +24,7 @@ def openai_create(prompt):
     frequency_penalty=0,
     presence_penalty=0.6,
     stop=[" Human:", " AI:"]
+    
     )
 
     return response.choices[0].text
